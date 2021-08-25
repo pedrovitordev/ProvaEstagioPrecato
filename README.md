@@ -10,6 +10,7 @@
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o sistema](#-sobre-o-sistema)
 - [Como baixar o projeto](#como-baixar-o-projeto)
+- [Rotas API](#rotas-da-api)
 
 ## 👀 Sobre
 
@@ -45,6 +46,22 @@ Siga os seguintes passos para baixar o arquivo:
 
 - Para esse sistema é necessário que ja tenha um banco de dados configurado em sua máquina, no meu caso utilizei o MySql, POSTMAN e uma IDE no meu caso estou utilizando NETBEANS.
 
+## Rotas da API
+
+- https://localhost:8080/pagamento - retornar todos pagamentos (GET)
+- https://localhost:8080/pagamento/1 - retornar um pagamento especifico (GET)
+- https://localhost:8080/pagamento - salvar um pagamento (POST)
+- https://localhost:8080/pagamento/1 - atualizar pagamento (PUT)
+
+- https://localhost:8080/credor - retornar todos credores (GET)
+- https://localhost:8080/credor/1 - retornar um credor especifico (GET)
+- https://localhost:8080/credor - salvar um credor (POST)
+- https://localhost:8080/credor/1 - atualizar credor (PUT)
+
+- https://localhost:8080/entedevedor - retornar todos entedevedores (GET)
+- https://localhost:8080/entedevedor/1 - retornar um entedevedor especifico (GET)
+- https://localhost:8080/entedevedor - salvar um entedevedor (POST)
+- https://localhost:8080/entedevedor/1 - atualizar pagamento (PUT)
 
 
 
