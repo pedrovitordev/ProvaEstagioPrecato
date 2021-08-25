@@ -61,7 +61,7 @@ Siga os seguintes passos para baixar o arquivo:
 - https://localhost:8080/entedevedor - retornar todos entedevedores (GET)
 - https://localhost:8080/entedevedor/1 - retornar um entedevedor especifico (GET)
 - https://localhost:8080/entedevedor - salvar um entedevedor (POST)
-- https://localhost:8080/entedevedor/1 - atualizar pagamento (PUT)
+- https://localhost:8080/entedevedor/1 - atualizar entedevedor (PUT)
 
 
 
